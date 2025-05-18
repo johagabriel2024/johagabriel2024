@@ -1,21 +1,26 @@
 ## 👋 Olá! Eu sou o Johan Gabriel
 
-🎯 Estudante de Engenharia de Software e apaixonado por criar soluções com tecnologia.
-
+🎯 Estudante de Engenharia de Software e apaixonado por criar soluções com tecnologia.  
 🎮 Explorando o mundo do Front-End, desenvolvimento de jogos e interfaces interativas.
 
 ---
 
 ### 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johan_gabriel81)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-gabriel-59aa21241/)
+<p>
+  <a href="https://www.instagram.com/johan_gabriel81">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/johan-gabriel-59aa21241/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johan-gabriel81&show_icons=true&theme=dracula&count_private=true)
+![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johagabriel2024&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
