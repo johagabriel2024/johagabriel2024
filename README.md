@@ -1,16 +1,30 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o Johan Gabriel
 
-<!--
-**johagabriel2024/johagabriel2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estudante de Engenharia de Software e apaixonado por criar soluções com tecnologia.
 
-Here are some ideas to get you started:
+🔍 Explorando o mundo do Front-End, desenvolvimento de jogos e interfaces interativas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Redes Sociais
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johan_gabriel81)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-gabriel-da-silva-dos-santos-59aa21241)
+
+---
+
+### 📊 GitHub Stats
+
+![Johan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johan-gabriel81&show_icons=true&theme=dracula&count_private=true)
+
+---
+
+### 🚀 Tecnologias que estou aprendendo:
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</div>
+
+---
+
+💬 _“Transformando criatividade em código e desafios em aprendizado.”_
