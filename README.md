@@ -2,12 +2,14 @@
 
 🎯 Estudante de Engenharia de Software e apaixonado por criar soluções com tecnologia.
 
-🔍 Explorando o mundo do Front-End, desenvolvimento de jogos e interfaces interativas.
+🎮 Explorando o mundo do Front-End, desenvolvimento de jogos e interfaces interativas.
+
+---
 
 ### 🌐 Redes Sociais
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johan_gabriel81)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/johan-gabriel-da-silva-dos-santos-59aa21241](https://www.linkedin.com/in/johan-gabriel-59aa21241/))
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/johan_gabriel81)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johan-gabriel-59aa21241/)
 
 ---
 
@@ -17,7 +19,7 @@
 
 ---
 
-### 🚀 Tecnologias:
+### 🚀 Tecnologias
 
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
